@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i__v-icon notranslate mdi mdi-menu-down the_5c5677</name>
+   <tag></tag>
+   <elementGuidId>cb08a221-943a-47ce-a7ae-0010df9695cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/form/div/div[2]/div/div/div[7]/div[2]/div/div/div/div[2]/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-input.my-2.v-input--hide-details.v-input--is-label-active.v-input--is-dirty.v-input--is-focused.theme--light.v-text-field.v-text-field--is-booted.v-text-field--enclosed.v-text-field--outlined.v-select.v-select--is-menu-active.primary--text > div.v-input__control > div.v-input__slot > div.v-select__slot > div.v-input__append-inner > div.v-input__icon.v-input__icon--append > i.v-icon.notranslate.mdi.mdi-menu-down.theme--light.primary--text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-icon notranslate mdi mdi-menu-down theme--light primary--text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@id=&quot;app&quot;]/div[@id=&quot;app&quot;]/div[@class=&quot;v-application--wrap&quot;]/div[@id=&quot;app&quot;]/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-content&quot;]/div[@class=&quot;v-content__wrap&quot;]/div[1]/form[@class=&quot;v-form&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;mx-auto v-card v-card--outlined v-sheet theme--light&quot;]/div[@class=&quot;v-card__text&quot;]/div[@class=&quot;col col-12&quot;]/div[7]/div[@class=&quot;v-input my-2 v-input--hide-details v-input--is-label-active v-input--is-dirty v-input--is-focused theme--light v-text-field v-text-field--is-booted v-text-field--enclosed v-text-field--outlined v-select v-select--is-menu-active primary--text&quot;]/div[@class=&quot;v-input__control&quot;]/div[@class=&quot;v-input__slot&quot;]/div[@class=&quot;v-select__slot&quot;]/div[@class=&quot;v-input__append-inner&quot;]/div[@class=&quot;v-input__icon v-input__icon--append&quot;]/i[@class=&quot;v-icon notranslate mdi mdi-menu-down theme--light primary--text&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/form/div/div[2]/div/div/div[7]/div[2]/div/div/div/div[2]/div/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/i</value>
+   </webElementXpaths>
+</WebElementEntity>

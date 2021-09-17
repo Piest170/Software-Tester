@@ -1,0 +1,184 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_/input_Username_input-25",
+      "brokenLocator": "//input[@id\u003d\u0027input-25\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/main/div/div/form/div/div[2]/div/div/div/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_/input_Username_input-25_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_/input__input-28",
+      "brokenLocator": "//input[@id\u003d\u0027input-28\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/main/div/div/form/div/div[2]/div/div/div[2]/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_/input__input-28_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_/input__input-31",
+      "brokenLocator": "//input[@id\u003d\u0027input-31\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/main/div/div/form/div/div[2]/div/div/div[3]/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_/input__input-31_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_/input_Password_input-10-2",
+      "brokenLocator": "//input[@id\u003d\u0027input-34\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/main/div/div/form/div/div[2]/div/div/div[4]/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_/input_Password_input-10-2_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_/input_Username_input-29",
+      "brokenLocator": "//input[@id\u003d\u0027input-29\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/main/div/div/form/div/div[2]/div/div/div/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_/input_Username_input-29_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_/input__input-32",
+      "brokenLocator": "//input[@id\u003d\u0027input-32\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/main/div/div/form/div/div[2]/div/div/div[2]/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_/input__input-32_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_/input__input-35",
+      "brokenLocator": "//input[@id\u003d\u0027input-35\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/main/div/div/form/div/div[2]/div/div/div[3]/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_/input__input-35_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_/input_Password_input-10-2_1",
+      "brokenLocator": "//input[@id\u003d\u0027input-38\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/main/div/div/form/div/div[2]/div/div/div[4]/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_/input_Password_input-10-2_1_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_/input_Verify Password_input-10-2_1",
+      "brokenLocator": "w",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/main/div/div/form/div/div[2]/div/div/div[5]/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_/input_Verify Password_input-10-2_1_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_/input__input-46",
+      "brokenLocator": "//input[@id\u003d\u0027input-46\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/main/div/div/form/div/div[2]/div/div/div[6]/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_/input__input-46_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_/div__1",
+      "brokenLocator": "//div[@id\u003d\u0027list-item-98-1\u0027]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div/div[2]/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_/div__1_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_/input_Username",
+      "brokenLocator": "//input[@id\u003d\u0027input-29\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/main/div/div/form/div/div[2]/div/div/div/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_/input_Username_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_/input__Fname",
+      "brokenLocator": "//input[@id\u003d\u0027input-32\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/main/div/div/form/div/div[2]/div/div/div[2]/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_/input__Fname_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_/input__Lname",
+      "brokenLocator": "//input[@id\u003d\u0027input-35\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/main/div/div/form/div/div[2]/div/div/div[3]/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_/input__Lname_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_/input_Password",
+      "brokenLocator": "//input[@id\u003d\u0027input-38\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/main/div/div/form/div/div[2]/div/div/div[4]/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_/input_Password_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_/input_VerifyPassword",
+      "brokenLocator": "//input[@id\u003d\u0027input-42\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/main/div/div/form/div/div[2]/div/div/div[5]/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_/input_VerifyPassword_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_/input__Phone",
+      "brokenLocator": "//input[@id\u003d\u0027input-46\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/main/div/div/form/div/div[2]/div/div/div[6]/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_/input__Phone_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_/button_Submit",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(//button[@type\u003d\u0027button\u0027])[6]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_/button_Submit_attributes.png"
+    }
+  ]
+}
